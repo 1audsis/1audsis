@@ -8,4 +8,4 @@
 
 
 
-[![audsis' GitHub stats](https://github-readme-stats.vercel.app/api?username=audsis-currymod)](https://github.com/anuraghazra/github-readme-stats)
+![audsis' GitHub stats](https://github-readme-stats.vercel.app/api?username=audsis-currymod&show_icons=true&theme=tokyonight)
